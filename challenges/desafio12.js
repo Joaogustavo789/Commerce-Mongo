@@ -4,9 +4,7 @@ db.produtos.updateMany({
   },
 }, {
   $addToSet: {
-    ingredientes: {
-      $each: ["ketchup"],
-    },
+    ingredientes: "ketchup",
   },
 });
 
