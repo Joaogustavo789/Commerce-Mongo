@@ -1,5 +1,5 @@
 db.produtos.countDocuments({
   nome: {
-    $regex: /Mc/,
+    $regex: /Mc/i,
   },
 });
