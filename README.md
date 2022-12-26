@@ -1,7 +1,7 @@
 
 # Commerce-Mongo
 
-Commerce-Mongo é um projeto desenvolvido em `MongoDB` no qual foi possível ver, adicionar, atualizar e deletar informações de uma lanchonete.
+Commerce-Mongo é um projeto desenvolvido com um Banco de Dados não relacional: `MongoDB`, no qual foi possível ver, adicionar, atualizar e deletar informações de uma lanchonete atráves do banco `commerce`.
 
 
 ## Rodando localmente
